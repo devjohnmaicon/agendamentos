@@ -105,11 +105,11 @@ function Unidades() {
       <Accordion.Item eventKey="0">
         <Accordion.Header>
           <a href="medicos">
-            <strong>Posto de Saúde - Valparaíso 1</strong>
+            <strong>Posto de Saúde - Valparaíso II</strong>
           </a>
         </Accordion.Header>
         <Accordion.Body className="bg-light">
-          Endereço: Quadra 02, Conjunto G, lote 25 <br />
+          Endereço: QD 22 ÁREA ESPECIAL VALPARAISO II <br />
           Horário de Atendimento: Segunda a Sexta de 08:00 - 18:00
         </Accordion.Body>
       </Accordion.Item>
