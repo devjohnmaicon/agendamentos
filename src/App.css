@@ -1,0 +1,13 @@
+.table_border-radius{
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    overflow: hidden; /* Impede que o conteúdo ultrapasse os cantos arredondados */
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.cursor-pointer && :hover {
+    background-color: red;
+}
